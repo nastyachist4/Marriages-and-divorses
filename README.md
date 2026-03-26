@@ -59,18 +59,9 @@
 2. [https://wciom.ru/analytical-reviews/analiticheskii-obzor/razvody-v-rossii-monitoring](https://wciom.ru/analytical-reviews/analiticheskii-obzor/razvody-v-rossii-monitoring)
 3. [https://trends.rbc.ru/trends/social/67eb9ba7947165b574ab9](https://trends.rbc.ru/trends/social/67eb9ba7947165b574ab9)
 
-### Инструменты:
--**Excel**    Для очистки данных и форматирования исходных таблиц 
--**Python 3* Для очистки и анализа данных для последующей визуализацией
--**Pandas**   Для трансформации и визуализации данных 
--**GitHub**   Для публикации проекта 
-
-### Инструкция по запуску
-Скрипт для генерации графиков находится в папке `scripts`. Для работы требуются библиотеки:
-```bash
-pip install pandas matplotlib scipy openpyxl
-
-### Инструкция по запуску
-Скрипт для генерации графиков находится в папке `scripts`. Для работы требуются библиотеки:
-```bash
-pip install pandas matplotlib scipy openpyxl
+### Инструменты
+- **Google Таблицы** — для просмотра и первичной работы с данными;
+- **Excel (.xlsx)** — для хранения таблицы;
+- **Python3 ( pandas, )** — для дополнительной обработки данных и графического построения;
+- **Markdown** — для оформления `README.md`. 
+- **GitHub** — для публикации проекта;
